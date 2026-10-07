@@ -4,7 +4,7 @@
 
 A responsive expense tracker with budgeting, built with **React 19**, **Vite**, **Recharts** and an **Express** backend.
 
-### 🔗 [**Live demo → https://YOUR-APP.vercel.app**](https://YOUR-APP.vercel.app)
+### 🔗 [**Live demo → https://expenz-v0.vercel.app/**](https://expenz-v0.vercel.app)
 
 ![Expenz dashboard](docs/screenshots/dashboard.png)
 
